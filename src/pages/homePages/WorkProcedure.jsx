@@ -20,7 +20,7 @@ const Workprocess = () => {
               {/* <!-- left side start --> */}
               <div className="grid grid-row-5 justify-items-center p-6 gap-2 ">
                 {/* <!-- step-1 --> */}
-                <div className="shadow-lg rounded-lg max-w-xl mx-auto  h-96 p-4">
+                <div className="shadow-lg rounded-lg max-w-xl mx-auto  h-96 p-4 bg-white">
                   <div className="flex items-center justify-end mb-4 text-black">
                     <span className="bgb font-medium px-4 py-2 rounded-lg">2 HOURS</span>
                   </div>
@@ -42,7 +42,7 @@ const Workprocess = () => {
                   <p className=""></p>
                 </div>
                 {/* <!-- step 3 --> */}
-                <div className="shadow-lg rounded-lg max-w-xl mx-auto  h-96 p-4">
+                <div className="shadow-lg rounded-lg max-w-xl mx-auto  h-96 p-4 bg-white">
                   <div className="flex items-center justify-end mb-4 text-black">
                     <span className="bgb font-medium px-4 py-2 rounded-lg">2 WEEKS</span>
                   </div>
@@ -64,7 +64,7 @@ const Workprocess = () => {
                   <p className=""></p>
                 </div>
                 {/* <!-- step 5 --> */}
-                <div className="shadow-lg rounded-lg max-w-xl mx-auto  h-96 p-4">
+                <div className="shadow-lg rounded-lg max-w-xl mx-auto  h-96 p-4 bg-white">
                   <div className="flex items-center justify-end mb-4 text-black">
                     <span className="bgb font-medium px-4 py-2 rounded-lg">1 DAY</span>
                   </div>
@@ -108,7 +108,7 @@ const Workprocess = () => {
                   <p className=""></p>
                 </div>
                 {/* <!-- step-2 --> */}
-                <div className="shadow-lg rounded-lg max-w-xl mx-auto  h-96 p-4">
+                <div className="shadow-lg rounded-lg max-w-xl mx-auto  h-96 p-4 bg-white">
                   <div className="flex items-center justify-end mb-4 text-black">
                     <span className="bgb font-medium px-4 py-2 rounded-lg">1 WEEKS</span>
                   </div>
@@ -131,7 +131,7 @@ const Workprocess = () => {
                   <p className=""></p>
                 </div>
                 {/* <!-- step 4 --> */}
-                <div className="shadow-lg rounded-lg max-w-xl mx-auto  h-96 p-4">
+                <div className="shadow-lg rounded-lg max-w-xl mx-auto  h-96 p-4 bg-white">
                   <div className="flex items-center justify-end mb-4 text-black">
                     <span className="bgb font-medium px-4 py-2 rounded-lg">2 WEEKS</span>
                   </div>
@@ -163,7 +163,7 @@ const Workprocess = () => {
                 <span className="rounded-full border border-black px-4 py-2">1</span>
               </div>
               {/* <!-- step-1 --> */}
-              <div className="shadow-lg rounded-lg max-w-xl mx-auto  h-96 p-4">
+              <div className="shadow-lg rounded-lg max-w-xl mx-auto h-96 p-4">
                 <div className="flex items-center justify-end mb-4 text-black">
                   <span className="bgb font-medium px-4 py-2 rounded-lg">2 HOURS</span>
                 </div>
@@ -184,7 +184,7 @@ const Workprocess = () => {
                 <span className="rounded-full border border-black px-4 py-2">2</span>
               </div>
               {/* <!-- step-2 --> */}
-              <div className="shadow-lg rounded-lg max-w-xl mx-auto  h-96 p-4">
+              <div className="shadow-lg rounded-lg max-w-xl mx-auto h-96 p-4">
                 <div className="flex items-center justify-end mb-4 text-black">
                   <span className="bgb font-medium px-4 py-2 rounded-lg">1 WEEKS</span>
                 </div>
@@ -206,7 +206,7 @@ const Workprocess = () => {
                 <span className="rounded-full border border-black px-4 py-2">3</span>
               </div>
               {/* <!-- step 3 --> */}
-              <div className="shadow-lg rounded-lg max-w-xl mx-auto  h-96 p-4">
+              <div className="shadow-lg rounded-lg max-w-xl mx-auto h-96 p-4">
                 <div className="flex items-center justify-end mb-4 text-black">
                   <span className="bgb font-medium px-4 py-2 rounded-lg">2 WEEKS</span>
                 </div>
@@ -227,7 +227,7 @@ const Workprocess = () => {
                 <span className="rounded-full border border-black px-4 py-2">4</span>
               </div>
               {/* <!-- step 4 --> */}
-              <div className="shadow-lg rounded-lg max-w-xl mx-auto  h-96 p-4">
+              <div className="shadow-lg rounded-lg max-w-xl mx-auto h-96 p-4">
                 <div className="flex items-center justify-end mb-4 text-black">
                   <span className="bgb font-medium px-4 py-2 rounded-lg">2 WEEKS</span>
                 </div>
@@ -249,7 +249,7 @@ const Workprocess = () => {
                 <span className="rounded-full border border-black px-4 py-2">5</span>
               </div>
               {/* <!-- step 5 --> */}
-              <div className="shadow-lg rounded-lg max-w-xl mx-auto  h-96 p-4">
+              <div className="shadow-lg rounded-lg max-w-xl mx-auto h-96 p-4">
                 <div className="flex items-center justify-end mb-4 text-black">
                   <span className="bgb font-medium px-4 py-2 rounded-lg">1 DAY</span>
                 </div>

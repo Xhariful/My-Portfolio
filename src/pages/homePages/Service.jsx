@@ -17,7 +17,7 @@ const ServiceSection = () => {
 
         <div className="grid md:grid-cols-3 gap-8 px-4">
           {/* Service 1 */}
-          <div className="bg-white shadow-lg p-6 rounded-lg hover:shadow-xl transition-shadow duration-300">
+          <div className="bg-white shadow-lg p-6 rounded-lg hover:shadow-xl  hover:border  transition-shadow duration-300">
             <div className="mb-6">
               <i className="text-4xl text-blue-500">💻</i>
             </div>
@@ -30,7 +30,7 @@ const ServiceSection = () => {
           </div>
 
           {/* Service 2 */}
-          <div className="bg-white shadow-lg p-6 rounded-lg hover:shadow-xl transition-shadow duration-300">
+          <div className="bg-white shadow-lg p-6 rounded-lg hover:shadow-xl  hover:border  transition-shadow duration-300">
             <div className="mb-6">
               <i className="text-4xl text-green-500">🔧</i>
             </div>
@@ -42,7 +42,7 @@ const ServiceSection = () => {
           </div>
 
           {/* Service 3 */}
-          <div className="bg-white shadow-lg p-6 rounded-lg hover:shadow-xl transition-shadow duration-300">
+          <div className="bg-white shadow-lg p-6 rounded-lg hover:shadow-xl  hover:border  transition-shadow duration-300">
             <div className="mb-6">
               <i className="text-4xl text-yellow-500">🎨</i>
             </div>
