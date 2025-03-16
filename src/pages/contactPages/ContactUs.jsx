@@ -62,12 +62,12 @@ const ContactUs = () => {
                                     </a>
                                 </div>
                                 <div className="border-2 border-[rgb(33,32,29)] text-2xl bg-[rgb(33,32,29)] p-1">
-                                    <a href="#">
+                                    <a href="https://www.linkedin.com/in/shariful-islam-781450334/">
                                         <i className="fab fa-linkedin p-2"></i>LinkedIn
                                     </a>
                                 </div>
                                 <div className="border-2 border-[rgb(33,32,29)] text-2xl bg-[rgb(33,32,29)] p-1">
-                                    <a href="#">
+                                    <a href="https://github.com/Xhariful">
                                         <i className="fab fa-github p-2"></i>GitHub
                                     </a>
                                 </div>

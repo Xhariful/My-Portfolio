@@ -12,10 +12,10 @@ const Footer = () => {
 
           {/* Social Media Links */}
           <div className="flex lg:space-x-6 mt-4 space-x-3 md:mt-0">
-            <a href="#" className="hover:text-yellow-500 transition duration-300 flex items-center space-x-2">
+            <a href="https://github.com/Xhariful" className="hover:text-yellow-500 transition duration-300 flex items-center space-x-2">
               <FaGithub /> <span>GitHub</span>
             </a>
-            <a href="#" className="hover:text-yellow-500 transition duration-300 flex items-center space-x-2">
+            <a href="https://www.linkedin.com/in/shariful-islam-781450334/" className="hover:text-yellow-500 transition duration-300 flex items-center space-x-2">
               <FaLinkedin /> <span>LinkedIn</span>
             </a>
             <a href="#" className="hover:text-yellow-500 transition duration-300 flex items-center space-x-2">
